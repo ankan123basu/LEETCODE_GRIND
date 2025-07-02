@@ -89,10 +89,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
+<div align="center" style="margin: 2rem 0;">
   <h3>Happy Coding! 🎉</h3>
   <p>May your code be efficient and your bugs be minimal! 🚀</p>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9Fprcf9/giphy.gif" width="300" alt="Coding Gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVuY3ZzZ3V5c2V2eXhhaWl6c2t3b2V6dWtqZzV6dWlwY3VzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Coding Animation">
 </div>
 
 ## 🌟 Highlights
