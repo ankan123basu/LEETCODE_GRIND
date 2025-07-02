@@ -40,13 +40,17 @@
 
 ---
 
-### Difficulty Levels
+## 🎯 Difficulty Levels
+
+<div align="center">
 
 | Level | Description | Problems |
-|-------|-------------|----------|
-| <span style="color: #00B8A3">**Easy**</span> | Basic problems to build foundation | [View](/Easy) |
-| <span style="color: #FFC01E">**Medium**</span> | Common interview questions | [View](/Medium) |
-| <span style="color: #FF375F">**Hard**</span> | Complex problems requiring optimization | [View](/Hard) |
+|:-----:|:-----------:|:--------:|
+| <span style="color: #00B8A3; font-weight: 600">Easy</span> | Basic problems to build foundation | [View](/Easy) |
+| <span style="color: #FFC01E; font-weight: 600">Medium</span> | Common interview questions | [View](/Medium) |
+| <span style="color: #FF375F; font-weight: 600">Hard</span> | Complex problems requiring optimization | [View](/Hard) |
+
+</div>
 
 ---
 
