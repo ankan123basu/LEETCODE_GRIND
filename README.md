@@ -54,9 +54,9 @@
     <div style="text-align: center;">
       <h3>GeeksforGeeks Profile</h3>
       <a href="https://www.geeksforgeeks.org/user/ankanbasu02/" target="_blank">
-        <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=ankanbasu02&theme=dark" alt="GeeksforGeeks Stats"/>
+        <img src="https://img.shields.io/badge/View_My_Profile-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="View GeeksforGeeks Profile"/>
       </a>
-      <p>Activity heatmap showing my GeeksforGeeks problem-solving history</p>
+      <p>Click the badge above to view detailed statistics on GeeksforGeeks</p>
     </div>
   </div>
 </div>
