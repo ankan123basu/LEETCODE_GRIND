@@ -51,11 +51,12 @@
         <img src="https://leetcard.jacoblin.cool/ankanbasu10?ext=heatmap&theme=dark" alt="LeetCode Stats" width="400"/>
       </a>
     </div>
-    <div>
+    <div style="text-align: center;">
       <h3>GeeksforGeeks Profile</h3>
-      <a href="https://www.geeksforgeeks.org/user/ankanbasu02/">
-        <img src="https://media.geeksforgeeks.org/img-practice/light-user-widget-2.svg" alt="GeeksforGeeks Stats" width="400"/>
+      <a href="https://www.geeksforgeeks.org/user/ankanbasu02/" target="_blank">
+        <img src="https://img.shields.io/badge/View_My_Profile-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="View GeeksforGeeks Profile"/>
       </a>
+      <p>Click the badge above to view detailed statistics on GeeksforGeeks</p>
     </div>
   </div>
 </div>
