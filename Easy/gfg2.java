@@ -1,3 +1,6 @@
+
+import java.util.ArrayList;
+
 // Indexes of Subarray Sum
 
 //https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
@@ -5,6 +8,7 @@
 // You need to find the first subarray whose sum is equal to the target.
 
 class Solution {
+    
     static ArrayList<Integer> subarraySum(int[] arr, int target) {
         // code here
         
