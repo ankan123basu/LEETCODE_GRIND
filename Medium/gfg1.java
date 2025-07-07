@@ -7,10 +7,8 @@ package Medium;
 
 import java.util.HashMap;
 
-class Sol{
+class Sol {
     public int longestSubarray(int[] arr, int k) {
-        // code here
-        
         // Prefix Sum + Hashmap                                    // O(n)  O(n)
         HashMap<Integer, Integer> map = new HashMap<>();
         int n = arr.length;
