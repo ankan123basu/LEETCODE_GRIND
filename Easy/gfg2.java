@@ -8,7 +8,7 @@ import java.util.ArrayList;
 // You need to find the first subarray whose sum is equal to the target.
 
 class Solution {
-    
+
     static ArrayList<Integer> subarraySum(int[] arr, int target) {
         // code here
         
