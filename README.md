@@ -6,6 +6,42 @@
     <br/>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=600&height=50&lines=LeetCode+Solutions+in+Java" alt="LeetCode Solutions in Java" />
     <br/>
+    <!-- LeetCode Stats Section -->
+    <div style="margin: 30px 0; text-align: center;">
+      <h2>My LeetCode Stats</h2>
+      <div style="display: flex; justify-content: center; margin: 20px 0;">
+        <!-- LeetCard with contest stats -->
+        <div style="margin: 0 auto;">
+          <img 
+            src="https://leetcard.jacoblin.cool/ankanbasu10?ext=contest" 
+            alt="ankanbasu10's LeetCode Stats" 
+            style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
+          />
+        </div>
+      </div>
+      <div style="margin: 15px 0;">
+        <a 
+          href="https://leetcode.com/u/ankanbasu10/" 
+          target="_blank" 
+          style="
+            display: inline-block; 
+            background: #FFA116; 
+            color: #000; 
+            padding: 10px 20px; 
+            border-radius: 5px; 
+            text-decoration: none; 
+            font-weight: bold; 
+            transition: all 0.3s ease;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+          "
+          onmouseover="this.style.background='#ffb84d'"
+          onmouseout="this.style.background='#FFA116'"
+        >
+          View Full Profile on LeetCode 🔗
+        </a>
+      </div>
+    </div>
+    
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 15px;">
       <a href="https://www.java.com/">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
