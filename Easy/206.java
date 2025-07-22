@@ -34,3 +34,36 @@ class Solution {
         return head;
     }
 }
+
+/*
+ Approach : using stack                    // O(2n) time and O(n) space
+ 
+class Solution {
+    public ListNode reverseList(ListNode head) {
+        if (head == null || head.next == null) return head;
+
+        Stack<ListNode> stack = new Stack<>();
+        ListNode temp = head;
+
+        // Push all nodes onto the stack
+        while (temp != null) {
+            stack.push(temp);
+            temp = temp.next;
+        }
+
+        // Pop the top element to be the new head
+        ListNode newHead = stack.pop();
+        ListNode current = newHead;
+
+        // Rebuild the reversed list
+        while (!stack.isEmpty()) {
+            current.next = stack.pop();
+            current = current.next;
+        }
+
+        current.next = null; // important to avoid cycle
+
+        return newHead;
+    }
+}
+ */
