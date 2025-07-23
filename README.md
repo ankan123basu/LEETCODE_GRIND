@@ -8,7 +8,7 @@
     <br/>
     <!-- LeetCode Stats Section -->
     <div style="margin: 30px 0; text-align: center;">
-      <h2>My LeetCode Stats</h2>
+      <h2>My Contests Rating</h2>
       <div style="display: flex; justify-content: center; margin: 20px 0;">
         <!-- LeetCard with contest stats -->
         <div style="margin: 0 auto;">
@@ -37,21 +37,7 @@
           onmouseover="this.style.background='#ffb84d'"
           onmouseout="this.style.background='#FFA116'"
         >
-          View Full Profile on LeetCode 🔗
-        </a>
-      </div>
-    </div>
-    
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 15px;">
-      <a href="https://www.java.com/">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-      </a>
-      <a href="https://leetcode.com/u/ankanbasu10/">
-        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-      </a>
-      <img src="https://komarev.com/ghpvc/?username=ankan123basu&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-    </div>
-  </h1>
+         
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=34D058&center=true&vCenter=true&width=800&height=50&lines=🔍+Curated+collection+of+optimized+LeetCode+solutions;🚀+Detailed+explanations+and+time+complexity+analysis;🎯+Categorized+by+difficulty+and+topics;💡+Perfect+for+interview+preparation;🔥+Updated+regularly+with+new+solutions" alt="Features" />
