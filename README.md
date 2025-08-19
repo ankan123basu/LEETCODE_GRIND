@@ -83,7 +83,7 @@
 <div align="center">
   <table>
     <tr>
-      <td>• Array & Strings</td>
+      <td>• Arrays & Strings</td>
       <td>• Dynamic Programming</td>
       <td>• Greedy</td>
     </tr>
